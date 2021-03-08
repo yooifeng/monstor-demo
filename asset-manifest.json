@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monstor-demo/static/css/main.3ba0dc83.chunk.css",
+    "main.js": "/monstor-demo/static/js/main.092989ac.chunk.js",
+    "main.js.map": "/monstor-demo/static/js/main.092989ac.chunk.js.map",
+    "runtime-main.js": "/monstor-demo/static/js/runtime-main.15132c45.js",
+    "runtime-main.js.map": "/monstor-demo/static/js/runtime-main.15132c45.js.map",
+    "static/js/2.b4a26631.chunk.js": "/monstor-demo/static/js/2.b4a26631.chunk.js",
+    "static/js/2.b4a26631.chunk.js.map": "/monstor-demo/static/js/2.b4a26631.chunk.js.map",
+    "static/js/3.22bc941c.chunk.js": "/monstor-demo/static/js/3.22bc941c.chunk.js",
+    "static/js/3.22bc941c.chunk.js.map": "/monstor-demo/static/js/3.22bc941c.chunk.js.map",
+    "index.html": "/monstor-demo/index.html",
+    "static/css/main.3ba0dc83.chunk.css.map": "/monstor-demo/static/css/main.3ba0dc83.chunk.css.map",
+    "static/js/2.b4a26631.chunk.js.LICENSE.txt": "/monstor-demo/static/js/2.b4a26631.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15132c45.js",
+    "static/js/2.b4a26631.chunk.js",
+    "static/css/main.3ba0dc83.chunk.css",
+    "static/js/main.092989ac.chunk.js"
+  ]
+}
